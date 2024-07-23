@@ -1,0 +1,55 @@
+
+
+[
+  {
+    "name": "Android Development",
+    "projects": [
+      {
+        "name": "Tourism App",
+        "individualList": [
+          {
+            "name": "Parth",
+            "taskList": [
+              { "name": "Backend APIs", "status": "PENDING" },
+              { "name": "Database Connectivity", "status": "COMPLETED" }
+            ]
+          },
+          {
+            "name": "Udit",
+            "taskList": [
+              { "name": "UI Design", "status": "PENDING" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "GAMING APP",
+        "individualList": [
+          {
+            "name": "Ritika",
+            "taskList": [
+              { "name": "Integration", "status": "COMPLETED" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Web Development",
+    "projects": [
+      {
+        "name": "Food Ordering App",
+        "individualList": [
+          {
+            "name": "Udit",
+            "taskList": [
+              { "name": "UI Design", "status": "PENDING" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
